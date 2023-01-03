@@ -1,0 +1,36 @@
+{
+    "name": "@realdem/react-sortation",
+    "version": "2023.1.2.0",
+    "private": false,
+    "license": "MIT",
+    "description": "A react hook to sort data for tables & lists",
+    "keywords": [
+        "data",
+        "sort",
+        "sorting",
+        "tools"
+    ],
+    "homepage": "https://www.github.com/realdem/react-sortation",
+    "author": {
+        "name": "Dan Michael",
+        "email": "dan@danmichael.consulting",
+        "url": "https://danmichael.pro"
+    },
+    "main": "react-sortation.js",
+    "dependencies": {
+        "react": "^18.2.0",
+        "recoil": "^0.7.6"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 3 chrome version",
+            "last 3 firefox version",
+            "last 3 safari version"
+        ]
+    }
+}
